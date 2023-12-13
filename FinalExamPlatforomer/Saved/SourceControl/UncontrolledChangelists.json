@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/W214289656/Desktop/Platform_ExamRohan/FinalExamPlatforomer/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/W214289656/Desktop/Platform_ExamRohan/FinalExamPlatforomer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/X4/5IW7MXAMX4O6AX2SMF8DZN.uasset"
+			]
+		}
+	]
+}
